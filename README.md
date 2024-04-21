@@ -1,1 +1,1 @@
-# prom-ticket-receipt-automator
+# Grad Ball Receipt Automator
