@@ -93,8 +93,8 @@ def generate_number_list(names_file_path):
     arnumber_list = []
     count = 101
 
-    with open(file_path, 'r') as file:
-        for line in file:
+    with open(names_file_path, 'r') as file:
+        for line in file: 
             line = line.strip()
             if line:
                 arnumber_list.append(f'R-{count}')
