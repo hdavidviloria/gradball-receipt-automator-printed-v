@@ -9,8 +9,8 @@ Last April 2023, as our school's Pupil Council Treasurer, I was tasked with crea
 So, with the help of trusty ChatGPT and tons of time spent debugging, I created a python program that automatically parses through a list of names and their assigned section, creates a receipt ID and inputs it in each receipt! It took a while to make this work, but when it did, it was really satisfying. Saved me tons of manual work!
 
 
-_Anyway, I just randomly had a thought to deploy this to GitHub — maybe someone might get inspiration from this or whatnot, but yeah, hope you enjoy this program :)
-_
+_Anyway, I just randomly had a thought to deploy this to GitHub — maybe someone might get inspiration from this or whatnot, but yeah, hope you enjoy this program :)_
+
 <br></br>
 
 ## How to Use
