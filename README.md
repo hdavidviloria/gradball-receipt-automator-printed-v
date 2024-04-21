@@ -1,5 +1,18 @@
 # Grad Ball Receipt Automator
 
+
+## What and Why
+
+Last April 2023, as our school's Pupil Council Treasurer, I was tasked with creating receipts for our upcoming Grad Ball. I created a template for the receipts via a Word Document. To do this manually, I'd have to type down each name in each receipt twice (since there are two copies), then type down the class number twice, then create a random receipt ID to be inputted. I estimated that this would take me around 30 seconds per receipt! There were around 80 attendees, so that would take me literally **40 minutes**, at the least!
+
+
+So, with the help of trusty ChatGPT and tons of time spent debugging, I created a python program that automatically parses through a list of names and their assigned section, creates a receipt ID and inputs it in each receipt! It took a while to make this work, but when it did, it was really satisfying. Saved me tons of manual work!
+
+
+Hope you enjoy this simple program :)
+
+<br></br>
+
 ## How to Use
 
 ### 1. Simply download the zip file and open it!
