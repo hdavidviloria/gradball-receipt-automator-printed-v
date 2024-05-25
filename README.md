@@ -1,4 +1,6 @@
-# Grad Ball Receipt Automator
+# Grad Ball Receipt Automator (Printed Version)
+
+This version allows for two receipts in one page, making it ideal for printed versions (as you can have one for yourself and one for the receiver)
 
 
 ## What and Why
